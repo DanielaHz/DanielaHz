@@ -10,6 +10,4 @@
 
 - 📫 How to reach me: [yessicadanielahernandez@gmail.com]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaHz&show_icons=true&theme=radical)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaHz&show_icons=true&theme=radical) 
