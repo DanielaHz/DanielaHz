@@ -1,3 +1,5 @@
+
+
 ### Hi, I'm Daniela 
 
 - 🎨 I am interested in developing tools that apply computer graphics concepts.
@@ -8,4 +10,6 @@
 
 - 📫 How to reach me: [yessicadanielahernandez@gmail.com]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaHz)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaHz&show_icons=true&theme=radical)
+
+
