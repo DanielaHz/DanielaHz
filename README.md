@@ -7,3 +7,5 @@
 - 🌱 I have a personal website where I update my projects, create posts, and share resources to introduce you to computer graphics. [https://graphicsjournal.com/]
 
 - 📫 How to reach me: [yessicadanielahernandez@gmail.com]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielaHz)](https://github.com/anuraghazra/github-readme-stats)
