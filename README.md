@@ -4,7 +4,7 @@
   <span>« Quiero tocar mis limites, no imaginarlos! »</span>
 </p>
 
-<img align="right" src="hand.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=400px/>
+<img align="right" src="hand.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=200px/>
 # 💫 About Me:
     Hi, I'm Daniela<br>🎨 I am interested in developing tools that apply computer graphics concepts.<br><br>🔭 I’m currently studying Computer Animation and Visual Effects at Bournemouth University.<br>      <br>🌱 I have a personal website where I update my projects, create posts, and share resources to introduce you to computer graphics. [https://graphicsjournal.com/]<br><br>
     
