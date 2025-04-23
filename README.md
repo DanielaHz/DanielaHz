@@ -1,6 +1,30 @@
-
-# 💫 About Me:
-Hi, I'm Daniela<br>🎨 I am interested in developing tools that apply computer graphics concepts.<br><br>🔭 I’m currently studying Computer Animation and Visual Effects at Bournemouth University.<br><br>🌱 I have a personal website where I update my projects, create posts, and share resources to introduce you to computer graphics. [https://graphicsjournal.com/]<br><br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .row {
+      display: flex;
+    }
+    .column {
+      flex: 50%;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="row">
+    <div class="column">
+      <h1>💫 About Me:</h1>
+      <p>Hi, I'm Daniela<br>🎨 I am interested in developing tools that apply computer graphics concepts.<br><br>🔭 I’m currently studying Computer Animation and Visual Effects at Bournemouth University.<br><br>🌱 I have a personal website where I update my projects, create posts, and share resources to introduce you to computer graphics. <a href="https://graphicsjournal.com/">https://graphicsjournal.com/</a><br><br></p>
+    </div>
+    <div class="column">
+      <img src="hand.png" alt="Hand">
+    </div>
+  </div>
+</body>
+</html> University.<br><br>🌱 I have a personal website where I update my projects, create posts, and share resources to introduce you to computer graphics. [https://graphicsjournal.com/]<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/daniela_hernandez_6094/?hl=es-la) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/danihernandeztd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yessicadanielahernandez@gmail.com) 
