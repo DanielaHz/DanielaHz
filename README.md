@@ -1,9 +1,5 @@
 # Hi, I'm Dani
 
-<p align="center">
-  <span>« "Quiero tocar mis limites, no imaginarlos" »</span>
-</p>
-
 <img align="left" src="robot.png"  width=350px/>
 
 🎨 I am passionate about developing tools that leverage computer graphics concepts.
