@@ -12,6 +12,8 @@
 
 🚀 I am the co-founder and Chief Graphics Officer of PixelMux, a tool designed to animate videos using AI. [https://pixelmux.com/]
 
+✨ My personal phrase is: I want to touch my limits, not imagine them.
+
 </div>
 
 <div align="left">
