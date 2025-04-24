@@ -1,14 +1,14 @@
 # Hi! I'm Daniela
 
 <p align="center">
-  <span>« Quiero tocar mis limites, no imaginarlos! »</span>
+  <span>« "Quiero tocar mis limites, no imaginarlos" »</span>
 </p>
 
-<img align="left" src="robot.png"  width=300px/>
+<img align="left" src="robot.png"  width=350px/>
 
-🎨 I am interested in developing tools that apply computer graphics concepts.<br><br>🔭 I’m currently studying Computer Animation and Visual Effects at Bournemouth University.<br>      <br>🌱 I have a personal website where I update my projects, create posts, and share resources to introduce you to computer graphics. [https://graphicsjournal.com/]<br><br>
+🎨 I am interested in developing tools that apply computer graphics concepts.<br><br>🔭 I’m currently studying Computer Animation and Visual Effects at Bournemouth University.<br><br>🌱 I have a personal website where I update my projects, create posts, and share resources to introduce you to computer graphics. [https://graphicsjournal.com/]<br><br>
     
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/daniela_hernandez_6094/?hl=es-la) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/danihernandeztd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yessicadanielahernandez@gmail.com) 
 
 # 💻 Tech Stack:
