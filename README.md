@@ -1,6 +1,6 @@
 # Hi, I'm Dani
 
-<img align="left" src="robot.png"  width=350px/>
+<img align="left" src="robot.png"  width=400px/>
 
 <div align="left">
 
