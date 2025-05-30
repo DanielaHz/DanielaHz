@@ -1,6 +1,6 @@
 # Hi, I'm Dani
 
-<img align="left" src="foto2.png"  width=250px/>
+<img align="left" src="foto2.png"  width=230px/>
 
 <div align="left">
 
