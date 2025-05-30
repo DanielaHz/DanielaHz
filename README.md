@@ -18,5 +18,3 @@
     </td>
   </tr>
 </table>
-
-[![Clean Master for UE5.4](https://github-readme-stats.vercel.app/api/pin/?username=DanielaHz&repo=Clean-Master-for-Unreal-Engine-5.4&theme=rose)](https://github.com/DanielaHz/Clean-Master-for-Unreal-Engine-5.4)
