@@ -1,7 +1,5 @@
 # Hi, I'm Dani
 
-<img align="left" src="foto5.png"  width=230px/>
-
 <div align="left">
 
 🎨 I am passionate about developing tools that leverage computer graphics concepts.
