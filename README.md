@@ -1,4 +1,4 @@
-## Hola, Soy Dani
+## Hola, soy Dani
 
 <table>
   <tr>
