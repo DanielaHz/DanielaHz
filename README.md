@@ -29,5 +29,5 @@
   </a>
 </div>
 
-<img src="curve-divider.svg" width="100%">
+<img src="intersecting-tilt-angles.svg" width="100%">
 
