@@ -22,10 +22,10 @@
 <h3>Currently in Development</h3>
 <div>
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
-    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=GhostPilot&theme=github_dark_dimmed&bg_color=00000000&cache_bust=1">
+    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=github_dark_dimmed&bg_color=00000000&cache_bust=1">
   </a>
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
-    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=github_dark_dimmed&bg_color=00000000&cache_bust=1">
+    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=GhostPilot&theme=github_dark_dimmed&bg_color=00000000&cache_bust=1">
   </a>
 </div>
 
