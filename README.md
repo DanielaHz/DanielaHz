@@ -29,5 +29,5 @@
   </a>
 </div>
 
-<img src="foot.svg" width="100%">
+<img src="curve-divider.svg" width="100%">
 
