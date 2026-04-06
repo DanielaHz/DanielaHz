@@ -1,20 +1,6 @@
 
 
 
-<!-- <h4 align="right">
-
-<table>
-  <tr>
-  <h1>Hola, soy Dani</div>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </tr>
- </table>
- 
-
-<!--📏LINE-->
-<!--📏LINE-->
-
 ## Hola, soy Daniela
 <table>
   <tr>
@@ -36,10 +22,10 @@
 <h2>Currently in Development</h2>
 <div>
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
-    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=transparent&border_color=">
+    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=github_dark&bg_color=00000000">
   </a>
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
-    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=transparent&border_color=">
+    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=github_dark_dimmed&bg_color=00000000">
   </a>
 </div>
 
