@@ -1,0 +1,41 @@
+<svg width="100%" viewBox="0 0 1200 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .wave1 { animation: wave1 8s ease-in-out infinite; transform-origin: center bottom; }
+      .wave2 { animation: wave2 10s ease-in-out infinite; transform-origin: center bottom; }
+      .wave3 { animation: wave3 6s ease-in-out infinite; transform-origin: center bottom; }
+      @keyframes wave1 {
+        0%, 100% { d: path("M0,60 C150,90 350,20 600,55 C850,90 1050,20 1200,50 L1200,120 L0,120 Z"); }
+        50%       { d: path("M0,50 C200,20 400,80 600,45 C800,20 1000,70 1200,40 L1200,120 L0,120 Z"); }
+      }
+      @keyframes wave2 {
+        0%, 100% { d: path("M0,70 C200,40 400,95 600,65 C800,35 1000,80 1200,60 L1200,120 L0,120 Z"); }
+        50%       { d: path("M0,60 C150,90 380,30 600,70 C820,100 1050,40 1200,65 L1200,120 L0,120 Z"); }
+      }
+      @keyframes wave3 {
+        0%, 100% { d: path("M0,85 C250,60 450,105 600,80 C750,55 950,100 1200,75 L1200,120 L0,120 Z"); }
+        50%       { d: path("M0,75 C200,100 420,55 600,85 C780,110 1000,65 1200,80 L1200,120 L0,120 Z"); }
+      }
+    </style>
+  </defs>
+
+  <!-- Wave 1 — deep GitHub blue -->
+  <path class="wave1" fill="#1f6feb" opacity="0.35"
+    d="M0,60 C150,90 350,20 600,55 C850,90 1050,20 1200,50 L1200,120 L0,120 Z"/>
+
+  <!-- Wave 2 — mid blue -->
+  <path class="wave2" fill="#388bfd" opacity="0.25"
+    d="M0,70 C200,40 400,95 600,65 C800,35 1000,80 1200,60 L1200,120 L0,120 Z"/>
+
+  <!-- Wave 3 — lighter accent blue -->
+  <path class="wave3" fill="#58a6ff" opacity="0.20"
+    d="M0,85 C250,60 450,105 600,80 C750,55 950,100 1200,75 L1200,120 L0,120 Z"/>
+
+  <!-- GitHub dark surface layer -->
+  <path fill="#161b22"
+    d="M0,95 C200,75 400,115 600,95 C800,75 1000,110 1200,90 L1200,120 L0,120 Z"/>
+
+  <!-- GitHub page bg — solid bottom seal -->
+  <path fill="#0d1117"
+    d="M0,110 C300,95 600,120 900,105 C1050,98 1150,110 1200,108 L1200,120 L0,120 Z"/>
+</svg>
