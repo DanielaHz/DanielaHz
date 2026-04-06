@@ -1,7 +1,7 @@
 
 
 
-## Hola, soy Daniela
+### Hola, soy Daniela
 <table>
   <tr>
     <td>
@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-<h2>Currently in Development</h2>
+<h3>Currently in Development</h3>
 <div>
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=github_dark_dimmed&bg_color=00000000">
