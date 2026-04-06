@@ -27,7 +27,6 @@
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=GhostPilot&theme=github_dark_dimmed&bg_color=00000000&cache_bust=1">
   </a>
+  <img src="footer.svg" width="100%">
+
 </div>
-
-<img src="footer.svg" width="100%">
-
