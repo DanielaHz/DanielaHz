@@ -1,8 +1,8 @@
 
 
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<!-- 🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f"> -->
 
 ### Hola, soy Daniela
 <table>
