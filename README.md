@@ -29,5 +29,5 @@
   </a>
 </div>
 
-<img src="intersecting-tilt-angles.svg" width="100%">
+<img src="footer.svg" width="100%">
 
