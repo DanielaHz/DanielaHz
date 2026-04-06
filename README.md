@@ -20,15 +20,21 @@
 </table>
 
 <h2>Currently in Development</h2>
-<div>
-  <!-- <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
+<table>
+  <tr>
+  <td>
+  <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=github_dark_dimmed&bg_color=00000000">
-  </a> -->
+  </a>
+  </td>
+
+  <td>
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=GhostPilot&theme=github_dark_dimmed&bg_color=00000000">
   </a>
-</div>
-
-
+  </td>
+  </tr>  
+</table>
+  
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
