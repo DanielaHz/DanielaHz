@@ -16,7 +16,6 @@
 <!--📏LINE-->
 
 ## Hola, soy Daniela
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <table>
   <tr>
     <td>
@@ -37,13 +36,13 @@
 <h2>Currently in Development</h2>
 <div>
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
-    <img src="https://img.shields.io/badge/MuJoCo--UE5--Linux--plugin-in%20development-blue?style=for-the-badge" />
+    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=transparent&border_color=">
   </a>
-
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
-    <img src="https://img.shields.io/badge/MuJoCo--UE5--Linux--plugin-in%20development-blue?style=for-the-badge" />
+    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=transparent&border_color=">
   </a>
 </div>
+
 
 
 <!--🦶FOOTER--> 
