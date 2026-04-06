@@ -14,10 +14,9 @@
 
 <!--📏LINE-->
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## Hola, soy Daniela
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <table>
   <tr>
     <td>
