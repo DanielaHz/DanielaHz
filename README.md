@@ -30,5 +30,3 @@
   </a>
 </div>
 
-
-<img src="footer.svg" width="100%">
