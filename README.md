@@ -1,4 +1,22 @@
-## Hola, soy Dani
+
+
+
+<!-- <h4 align="right">
+
+<table>
+  <tr>
+  <h1>Hola, soy Dani</div>
+   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </tr>
+ </table>
+ 
+
+<!--📏LINE-->
+
+## Hola, soy Daniela
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%"> 
 
 <table>
   <tr>
@@ -16,3 +34,20 @@
     </td>
   </tr>
 </table>
+
+<h2>Currently in Development</h2>
+<div>
+  <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
+    <img src="https://img.shields.io/badge/MuJoCo--UE5--Linux--plugin-in%20development-blue?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
+    <img src="https://img.shields.io/badge/MuJoCo--UE5--Linux--plugin-in%20development-blue?style=for-the-badge" />
+  </a>
+</div>
+
+
+
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
