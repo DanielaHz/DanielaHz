@@ -9,7 +9,6 @@
   - 🎨 I’m passionate about developing tools that apply computer graphics concepts in practical and creative ways
   - 🔭 I graduated with Merit from the MSc in Computer Animation and Visual Effects at Bournemouth University in the UK
   - 🌱 I maintain a personal website where I regularly update my projects, write posts, and share resources to help others get started in computer graphics: graphicsjournal.com
-  - 🚀 I’m currently working as the Graphics Technical Lead at PixelMux, a startup exploring speech‑driven video generation and DCC pipelines: pixelmux.com
   - ✨ My personal phrase is: I want to touch my limits, not imagine them
 
 </td>
@@ -28,8 +27,8 @@
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=MuJoCo-UE5-Linux-plugin&theme=github_dark_dimmed&bg_color=00000000&cache_bust=1">
   </a>
-  <a href="https://github.com/DanielaHz/GhostPilot">
-    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=GhostPilot&theme=github_dark_dimmed&bg_color=00000000&cache_bust=1">
+  <a href="https://github.com/DanielaHz/GhostDriver-Sim2Real">
+    <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=GhostDriver-Sim2Real&theme=github_dark_dimmed&bg_color=00000000&cache_bust=1">
   </a>
 </div>
 
