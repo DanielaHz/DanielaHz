@@ -2,6 +2,7 @@
 
 
 ## Hola, soy Dani
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 <table>
   <tr>
     <td>
