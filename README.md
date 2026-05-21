@@ -2,7 +2,7 @@
 
 
 ## Hola, soy Dani
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=DanielaHz&color=blueviolet)
 <table>
   <tr>
     <td>
