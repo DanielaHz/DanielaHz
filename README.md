@@ -7,10 +7,11 @@
   <tr>
     <td>
 
-  - 🎨 I’m passionate about developing tools that apply computer graphics concepts in practical and creative ways
+  - 🎨 I’m passionate about developing tools that apply computer graphics concepts in any industry!
   - 🔭 I graduated with Merit from the MSc in Computer Animation and Visual Effects at Bournemouth University in the UK
-  - 🌱 I maintain a personal website where I regularly update my projects, write posts, and share resources to help others get started in computer graphics: graphicsjournal.com
+  - 🌱 I maintain a personal website: graphicsjournal.com
   - ✨ My personal phrase is: I want to touch my limits, not imagine them
+  <pre>🟣 3. Currently super interested in Robotics simulation and LLM's integration</pre>
 
 </td>
     <td align="center">
