@@ -6,19 +6,18 @@
 <table>
   <tr>
     <td>
-  <pre>🎨 I’m passionate about developing tools that apply computer graphics concepts in any industry!</pre>
-  <pre>🔭 I graduated with Merit from the MSc in Computer Animation and Visual Effects at Bournemouth University</pre>
-  <pre>🌱 I maintain a personal website: graphicsjournal.com</pre>
-  <pre>✨ My personal phrase is: I want to touch my limits, not imagine them</pre>
-  <pre>❤️ Currently super interested in Robotics simulation and LLM's integration</pre>
-
+  - 🎨 I’m passionate about developing tools that apply computer graphics concepts in any industry
+  - 🔭 I graduated with Merit from the MSc in Computer Animation and Visual Effects at Bournemouth University
+  - 🌱 I maintain a personal website: graphicsjournal.com
+  ✨ My personal phrase is: I want to touch my limits, not imagine them
+      
 </td>
     <td align="center">
       <img src="foto3.png" width="300px">
     </td>
   </tr>
 </table>
-
+<pre>❤️ Currently super interested in Robotics simulation and LLM's integration</pre>
 <h3>Currently in Development</h3>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
