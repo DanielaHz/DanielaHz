@@ -7,15 +7,15 @@
   <tr>
     <td>
         
-      🎨 I’m passionate about developing tools that apply computer graphics 
+      🟣 I’m passionate about developing tools that apply computer graphics 
       concepts in any industry
     
-      🔭 I graduated with Merit from the MSc in Computer Animation and Visual 
+      🔵 I graduated with Merit from the MSc in Computer Animation and Visual 
       Effects at Bournemouth University
         
-      🌱 I maintain a personal website: graphicsjournal.com
+      🟢 I maintain a personal website: graphicsjournal.com
         
-      ✨ My personal phrase is: I want to touch my limits, not imagine them
+      🟡 My personal phrase is: I want to touch my limits, not imagine them
 
       ❤️ Currently super interested in Robotics simulation and LLM's integration
       
@@ -25,8 +25,7 @@
     </td>
   </tr>
 </table>
-<pre>❤️ Currently super interested in Robotics simulation and LLM's integration</pre>
-<h3>Currently in Development</h3>
+<pre> 🌟 Currently in Development</pre>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
  <a href="https://github.com/DanielaHz/Muxie-An-LLM-Agent-in-Unreal-Engine-5">
