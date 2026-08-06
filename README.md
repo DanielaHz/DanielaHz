@@ -28,7 +28,11 @@
 
 <img align="center" src="https://cards.parkerbritt.com/terminal_dani">
 
-<pre> 🌟 Currently in Development</pre>
+
+
+<hr />
+
+<pre>  🟣 Currently in Development</pre>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
@@ -38,8 +42,6 @@
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=DanielaHz&repo=GhostDriver-Sim2Real&theme=github_dark_dimmed&bg_color=00000000&cache_bust=1">
   </a>
 </div>
-
-<h3></h3>
 
 <!-- <div align="center">
 
@@ -51,3 +53,5 @@
 
 </div>
 <br><br>     -->
+
+<pre>  🟣 Featured Projects</pre>
