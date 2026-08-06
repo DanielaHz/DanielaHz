@@ -26,6 +26,7 @@
   </tr>
 </table> -->
 
+<img align="center" src="https://cards.parkerbritt.com/terminal_dani">
 
 <pre> 🌟 Currently in Development</pre>
 
