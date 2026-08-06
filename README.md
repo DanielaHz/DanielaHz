@@ -53,5 +53,3 @@
 
 </div>
 <br><br>     -->
-
-<pre>  🟣 Featured Projects</pre>
