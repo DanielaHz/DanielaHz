@@ -1,6 +1,6 @@
 
 
-
+<!-- 
 ## Hola, soy Dani
 ![](https://komarev.com/ghpvc/?username=DanielaHz&color=blueviolet)
 <table>
@@ -24,7 +24,9 @@
       <img src="foto3.png" width="300px">
     </td>
   </tr>
-</table>
+</table> -->
+
+
 <pre> 🌟 Currently in Development</pre>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
