@@ -31,7 +31,7 @@
 
 
 <hr />
-<img src="in-development-banner.png">
+<img src="in-development-animated.png">
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
