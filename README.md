@@ -31,8 +31,7 @@
 
 
 <hr />
-
-<pre>  🟣 Currently in Development</pre>
+<img src="currently-in-development-banner.png">
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/DanielaHz/MuJoCo-UE5-Linux-plugin">
@@ -58,7 +57,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"> -->
 
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100"> -->
-<img src="good-things-banner.png">
 
+<img src="other-projects-banner.png">
 </div>
 <br><br>    
